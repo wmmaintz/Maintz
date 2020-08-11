@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maintz", "maintz.csproj", "{771FB242-2048-4859-A722-8BCEE0EB1D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9EA25248-38A0-4777-81C7-019E080A8112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771FB242-2048-4859-A722-8BCEE0EB1D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771FB242-2048-4859-A722-8BCEE0EB1D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771FB242-2048-4859-A722-8BCEE0EB1D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771FB242-2048-4859-A722-8BCEE0EB1D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA25248-38A0-4777-81C7-019E080A8112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA25248-38A0-4777-81C7-019E080A8112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA25248-38A0-4777-81C7-019E080A8112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA25248-38A0-4777-81C7-019E080A8112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6C582A-3FAC-4F97-B44C-FB4826C6C462}
+	EndGlobalSection
+EndGlobal

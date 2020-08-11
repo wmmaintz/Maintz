@@ -1,0 +1,15 @@
+git config user.email
+git config --global user.email
+
+Initializing:
+git init
+git clone <URL>
+
+Staging files for commit:
+git status
+git add .
+
+Committing:
+git commit -am "Description of change"
+git push origin master
+git remote add origin git@github.com:
